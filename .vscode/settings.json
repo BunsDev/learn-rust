@@ -1,4 +1,6 @@
 {
     "editor.defaultFormatter": "matklad.rust-analyzer",
-    "editor.formatOnSave": true
+    "editor.formatOnSave": true,
+    "editor.letterSpacing": 1,
+    "editor.lineHeight": 45
 }
